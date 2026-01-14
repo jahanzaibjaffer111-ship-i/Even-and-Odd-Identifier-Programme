@@ -6,7 +6,7 @@ public class evenandoddprogramme
     {
         try (Scanner read = new Scanner(System.in)) {
             int a;
-            while(1>0)
+            while(true)
             {
                 System.out.println("HELLO");
                 System.out.println("WELCOME TO EVEN AND ODD CHECK PROGRAMME");
@@ -29,4 +29,5 @@ public class evenandoddprogramme
 
 
     }
+
 }
