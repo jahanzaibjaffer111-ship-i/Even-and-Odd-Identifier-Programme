@@ -8,26 +8,25 @@ public class evenandoddprogramme
             int a;
             while(true)
             {
-                System.out.println("HELLO");
-                System.out.println("WELCOME TO EVEN AND ODD CHECK PROGRAMME");
-                System.out.println("TYPE VALUE");
+                System.out.println("Hello");
+                System.out.println("Welcome to Even and Odd check Calculator");
+                System.out.println("Type Value");
                 a=read.nextInt();
                 if (a % 2 == 0)
                 {
-                    System.out.println("EVEN");
+                    System.out.println("Even");
                 }
                 if (a % 2 != 0)
                 {
-                    System.out.println("ODD");
+                    System.out.println("Odd");
                 }
-                System.out.println("THANKS");
-                System.out.println("BYE");
+                System.out.println("Thank you");
+                System.out.println("Bye");
                 System.out.println(".");
 
             }
         }
-
-
     }
 
 }
+
