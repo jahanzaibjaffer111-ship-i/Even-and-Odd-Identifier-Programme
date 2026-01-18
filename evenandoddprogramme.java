@@ -16,7 +16,7 @@ public class evenandoddprogramme
                 {
                     System.out.println("Even");
                 }
-                if (a % 2 != 0)
+                else if (a % 2 != 0)
                 {
                     System.out.println("Odd");
                 }
@@ -29,4 +29,5 @@ public class evenandoddprogramme
     }
 
 }
+
 
